@@ -1,3 +1,8 @@
+#Spam Email Detection using Machine Learning algorithm
+#Naive Bayes classifier used
+#Dev - atharva_nile
+
+
 from trainingdataset import *
 import MySQLdb
 import csv
